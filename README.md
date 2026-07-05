@@ -32,10 +32,14 @@ RiceHealth adalah platform aplikasi berbasis web untuk monitoring kesehatan laha
    npm install
    ```
 
-3. **Jalankan server pengembangan**
+3. **Jalankan front end pengembangan**
    ```bash
    npm run dev
    ```
+3. **Jalankan backend pengembangan**
+   ```bash
+   cd backend
+   npm run dev
 
 4. Buka browser dan akses tautan yang muncul di terminal (biasanya `http://localhost:5173`).
 
